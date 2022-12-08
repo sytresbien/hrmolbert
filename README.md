@@ -7,6 +7,7 @@
 * argparse
 * packaging
 * rdkit 2022.9.2
+* scikit-learn 1.1.3
 
 ## Run Script
 ```
